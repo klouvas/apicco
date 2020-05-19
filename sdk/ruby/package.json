@@ -1,0 +1,19 @@
+{
+  "name": "apicco-ruby-sdk",
+  "version": "0.1.1",
+  "scripts": {
+    "test": "rake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klouvas/apicco.git"
+  },
+  "author": "Dimitris Klouvas <dimitris.klouvas@gmail.com>",
+  "contributors": [
+    {
+      "name": "Dimitris Klouvas",
+      "email": "dimitris.klouvas@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
